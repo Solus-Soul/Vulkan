@@ -10,7 +10,9 @@ sudo apt install cmake
 
 sudo apt install build-essential
 
-# Install new VulkanSDK: https://vulkan.lunarg.com/sdk/home#linux or
+# Install new VulkanSDK: https://vulkan.lunarg.com/sdk/home#linux 
+
+# Install VulkadSDK of current project
 # Step 2
 wget -qO - https://packages.lunarg.com/lunarg-signing-key-pub.asc | sudo apt-key add -
 
