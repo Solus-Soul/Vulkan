@@ -1,6 +1,7 @@
 # Ubuntu 
 # Step 0
 sudo apt update
+
 sudo apt upgrade
 
 
